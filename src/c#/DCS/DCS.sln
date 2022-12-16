@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCS", "DCS.csproj", "{4BB41542-143E-4FC8-B529-FCE0E83B909B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarknetYolo", "DarknetYolo\DarknetYolo.csproj", "{7DABB117-1FC1-42B9-A385-B3786A85B025}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BB41542-143E-4FC8-B529-FCE0E83B909B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB41542-143E-4FC8-B529-FCE0E83B909B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB41542-143E-4FC8-B529-FCE0E83B909B}.Debug|x64.ActiveCfg = Debug|x64
+		{4BB41542-143E-4FC8-B529-FCE0E83B909B}.Debug|x64.Build.0 = Debug|x64
+		{4BB41542-143E-4FC8-B529-FCE0E83B909B}.Debug|x86.ActiveCfg = Debug|x86
+		{4BB41542-143E-4FC8-B529-FCE0E83B909B}.Debug|x86.Build.0 = Debug|x86
+		{4BB41542-143E-4FC8-B529-FCE0E83B909B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB41542-143E-4FC8-B529-FCE0E83B909B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BB41542-143E-4FC8-B529-FCE0E83B909B}.Release|x64.ActiveCfg = Release|x64
+		{4BB41542-143E-4FC8-B529-FCE0E83B909B}.Release|x64.Build.0 = Release|x64
+		{4BB41542-143E-4FC8-B529-FCE0E83B909B}.Release|x86.ActiveCfg = Release|x86
+		{4BB41542-143E-4FC8-B529-FCE0E83B909B}.Release|x86.Build.0 = Release|x86
+		{7DABB117-1FC1-42B9-A385-B3786A85B025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DABB117-1FC1-42B9-A385-B3786A85B025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DABB117-1FC1-42B9-A385-B3786A85B025}.Debug|x64.ActiveCfg = Debug|x64
+		{7DABB117-1FC1-42B9-A385-B3786A85B025}.Debug|x64.Build.0 = Debug|x64
+		{7DABB117-1FC1-42B9-A385-B3786A85B025}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7DABB117-1FC1-42B9-A385-B3786A85B025}.Debug|x86.Build.0 = Debug|Any CPU
+		{7DABB117-1FC1-42B9-A385-B3786A85B025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DABB117-1FC1-42B9-A385-B3786A85B025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DABB117-1FC1-42B9-A385-B3786A85B025}.Release|x64.ActiveCfg = Release|x64
+		{7DABB117-1FC1-42B9-A385-B3786A85B025}.Release|x64.Build.0 = Release|x64
+		{7DABB117-1FC1-42B9-A385-B3786A85B025}.Release|x86.ActiveCfg = Release|Any CPU
+		{7DABB117-1FC1-42B9-A385-B3786A85B025}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA010DA2-C5E0-4B5D-A8E6-3BF5E297A7E0}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		References\EmguCV\Emgu.CV.Runtime\Windows\Emgu.CV.Runtime.Windows.projitems*{7dabb117-1fc1-42b9-a385-b3786a85b025}*SharedItemsImports = 4
+	EndGlobalSection
+EndGlobal
